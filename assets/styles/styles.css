@@ -1,0 +1,280 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.container__header__name {
+  display: flex;
+}
+
+.header__name {
+  color: #272042;
+  margin-left: 10px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+}
+
+ul li {
+  list-style-type: none;
+  color: #8b8ba5;
+  margin-left: 15px;
+}
+
+.home {
+  color: #272042;
+}
+
+.button__kitchen {
+  background-color: #fbe0dc;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: #272042;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-style: none;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.container__one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eat {
+  font-size: 50px;
+  color: #272042;
+  padding-right: 120px;
+}
+
+.container__one p {
+  color: #8b8ba5;
+  font-size: 20px;
+}
+
+.button__decide {
+  background-color: #f7c531;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: #272042;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: none;
+  margin-top: 30px;
+}
+
+
+.containerr {
+  margin-top: 30px;
+}
+
+.containerr_one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.watch {
+  font-size: 21px;
+  color: #8B8BA5;
+  text-align: center;
+}
+
+.special {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.healthy {
+  margin-right: 80px;
+  color: #F7C531;
+}
+
+.lunch {
+  margin-right: 80px;
+  color: #272042;
+}
+
+.healthyy {
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  margin-top: 30px;
+  font-size: 21px;
+}
+
+.garis {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 29px;
+}
+
+.gambar {
+  margin-top: 70px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+.jarak_gambar {
+  margin-right: 20px;
+  text-align: center;
+}
+
+.jarak_gambar h2 {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.wadah {
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-right: auto;
+  width: 1500px;
+  height: 1000px;
+}
+
+.mid {
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+.kutip {
+  position: relative;
+  margin-right: 500px;
+}
+
+.teks {
+  position: absolute;
+  top: 70px;
+  left: 130px;
+  width: max-content;
+  text-align: center;
+  font-size: 25px;
+}
+
+.profil {
+  display: flex;
+  margin-left: 200px;
+  margin-right: auto;
+  width: max-content;
+  margin-top: 150px;
+}
+
+.nama {
+  font-size: 13px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.nama h2 {
+  font-weight: normal;
+  color: #8B8BA5;
+}
+
+.angka {
+  margin-top: 70px;
+  display: flex;
+  margin-right: 300px;
+}
+
+.jarak_angka {
+  margin-right: 70px;
+  margin-left: 10px;
+
+}
+
+.jarak_angka h1 {
+  color: #272042;
+}
+
+.jarak_angka h2 {
+  font-size: 14px;
+  margin-top: 8px;
+  font-weight: normal;
+  color: #8B8BA5;
+  text-align: center;
+}
+
+
+.footer {
+  margin-top: 10px;
+}
+
+.footer_2 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+.footer_3 {
+  width: 15%;
+  padding: 25px;
+  color: #272042;
+  font-size: 20px;
+}
+
+.footer_3 h1 {
+  font-size: 20px;
+}
+
+.footer_3 h2 {
+  font-size: 15px;
+}
+
+.footer_4 {
+  margin-top: 90px;
+  font-size: 20px;
+}
+
+.footer_4 h1 {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.foter {
+  color: #8B8BA5;
+  font-size: 10px;
+}
+
+.musclee {
+  color: #272042;
+  font-size: 10px;
+}
+
+.akhir {
+  color: #8B8BA5;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 30px;
+}
